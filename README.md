@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdb1337
-- 👀 I’m interested in Python small but useful apps and automation.
+- 👀 I’m interested in Python small apps and automation.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any small Python projects.
 - 📫 Reach me at catalin.dbalan@gmail.com
